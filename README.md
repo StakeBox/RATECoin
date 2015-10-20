@@ -1,1 +1,1 @@
-RAECoin v2.0.0.0
+RAECoin v2.0.0.4
